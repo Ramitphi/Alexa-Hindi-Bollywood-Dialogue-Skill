@@ -1,0 +1,42 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "हिंदी film dialogue",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "मुझे एक famous dialogue सुनाओ ",
+                        "open हिंदी  film dialogue ",
+                        "मुझे एक हिंदी dialogue सुनना हैं ",
+                        "मुझे एक hindi dialogue सुनाओ ",
+                        "मुझे एक हिंदी film का dialogue सुनाओ ",
+                        "हिंदी film   dialogue खोलो ",
+                        "एक हिंदी डायलाग सुनाओ ",
+                        "हिंदी  film dialogue शुरू करो ",
+                        "open हिंदी बॉलीवुड डायलाग ",
+                        "मुझे एक डायलॉग सुनाओ "
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
